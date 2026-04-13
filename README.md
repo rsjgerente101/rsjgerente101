@@ -7,3 +7,9 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXcwcGU5NDJlNGVnd3N4ZHFmNGR6c2JzbDU4aTl1Nm52OWlhZTU2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="500"/>
 </p>
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,git,github,figma,vscode" />
+</p>
