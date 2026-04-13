@@ -13,3 +13,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,git,github,figma,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liyasthomas/pacman-contribution-graph/main/animation/pacman.svg" />
+</p>
