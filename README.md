@@ -14,6 +14,8 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,git,github,figma,vscode" />
 </p>
 
+## ⚡ Neon Pac-Man Contributions
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rsjgerente101/rsjgerente101/main/dist/pacman-dark.svg" />
 </p>
