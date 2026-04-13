@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/liyasthomas/pacman-contribution-graph/main/animation/pacman.svg" />
+  <img src="https://raw.githubusercontent.com/rsjgerente101/rsjgerente101/main/dist/pacman-dark.svg" />
 </p>
