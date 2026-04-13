@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Risa Joy F. Gerente
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;Creating+Clean+%26+Modern+Experiences;Passionate+about+User-Centered+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Frontend+Developer;Clean+%26+Modern+UI+Builder" />
 </p>
 
 <p align="center">
