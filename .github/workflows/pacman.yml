@@ -16,7 +16,7 @@ jobs:
       - name: Generate Pacman graph
         uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: rsjgerente101
           color_snake: "#00f5ff"
           color_dots: "#0a0a0a,#0ff0ff,#00f5ff,#8a2be2,#39ff14"
           outputs: |
