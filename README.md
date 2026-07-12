@@ -69,11 +69,5 @@ Software Engineer passionate about building clean, scalable web applications. I 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsjgerente101&bg_color=00000000&color=7ab2ff&line=7ab2ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/rsjgerente101">rsjgerente101</a></i></p>
