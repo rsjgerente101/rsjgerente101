@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software Engineer passionate about building clean, scalable web applications. I enjoy turning coffee into code, creating intuitive user experiences, and continuously learning new technologies.
+Software Engineer passionate about building clean, scalable web applications. I enjoy coding over a cup of coffee, creating intuitive user experiences, and continuously learning new technologies.
 
 ⚡ &nbsp;Fun fact: **My best commits usually happen after the second cup of coffee.**
 
