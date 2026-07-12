@@ -70,4 +70,3 @@ Software Engineer passionate about building clean, scalable web applications. I 
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/rsjgerente101">rsjgerente101</a></i></p>
